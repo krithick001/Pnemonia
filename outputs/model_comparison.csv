@@ -1,0 +1,3 @@
+,accuracy,precision,recall,f1,roc_auc
+TF-IDF + Logistic Regression,0.9577,1.0,0.9268,0.962,0.9945
+Random Forest (tabular),0.9859,1.0,0.9756,0.9877,0.9953

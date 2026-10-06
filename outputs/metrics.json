@@ -1,0 +1,16 @@
+{
+  "TF-IDF + Logistic Regression": {
+    "accuracy": 0.9577,
+    "precision": 1.0,
+    "recall": 0.9268,
+    "f1": 0.962,
+    "roc_auc": 0.9945
+  },
+  "Random Forest (tabular)": {
+    "accuracy": 0.9859,
+    "precision": 1.0,
+    "recall": 0.9756,
+    "f1": 0.9877,
+    "roc_auc": 0.9953
+  }
+}
